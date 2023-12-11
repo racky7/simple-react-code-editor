@@ -1,6 +1,6 @@
 # Simple React Code Editor
 
-Deployed URL - 
+Deployed URL - https://simple-react-code-editor.vercel.app
 
 ## Local Installation
 
